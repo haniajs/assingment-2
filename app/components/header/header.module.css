@@ -1,0 +1,16 @@
+.style {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: large;
+    padding: 6px;
+    a:hover:not(.active) {
+        background-color: red;
+        color: white;
+        border-radius: 15px;
+        padding: 5px;
+    }
+}
+.h1 {
+    text-align: left;
+}
